@@ -1,0 +1,97 @@
+{
+    "generic": {
+        "header": {
+            "logo_url": "https://hejamanda.se/img/logo2.png",
+            "logo_width": "150px",
+            "name": "",
+            "font_size": "35px",
+            "text_color": "white",
+            "background_color": "black"
+        },
+        "body": {
+            "color": "",
+            "background": ""
+        }
+    },
+    "user": {
+        "name": "You",
+        "theme": {
+            "message": {
+                "text_color": "white",
+                "background_color": "green"
+            }
+        }
+    },
+    "bot": {
+        "name": "Amanda",
+        "avatar_size": "30px",
+        "avatar_shape": "circle",
+        "avatar_url": "https://i.imgur.com/1hCyAAa.png",
+        "avatar_color": "green",
+        "menu_flow": "vertical",
+        "enable_auto_scroll": true,
+        "auto_play_video": true,
+        "time_delay": 100,
+        "lang_code": "sv",
+        "default_message": "Skriv något här...",
+        "theme": {
+            "message": {
+                "text_color": "white",
+                "background_color": "purple",
+                "font": "cursive"
+            },
+            "link_button": {
+                "text_color": "white",
+                "background_color": "black"
+            },
+            "quick_reply_button": {
+                "text_color": "white",
+                "background_color": "black"
+            },
+            "send_button": {
+                "text_color": "white",
+                "background_color": "black"
+            }
+        }
+    },
+    "live_chat": {
+        "agents": [
+            {
+                "name": "Anshul",
+                "email": "anshul.shrivastava123@gmail.com"
+            },
+            {
+                "name": "Harry",
+                "email": "anshuloist@gmail.com"
+            },
+            {
+                "name": "Chris",
+                "email": "chris@gmail.com"
+            },
+            {
+                "name": "from online",
+                "email": "fromonline@gmail.com"
+            }
+        ]
+    },
+    "voice_options": {
+        "tts": {
+            "show_button": false,
+            "lang": "ko-KR",
+            "voice": "Seoyeon",
+            "enable_ssml": true,
+            "button": {
+                "text_color": "a",
+                "background_color": "a"
+            }
+        },
+        "stt": {
+            "show_button": false,
+            "button": {
+                "text": "Press to speak",
+                "text_color": "a",
+                "background_color": "a"
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "dialogflowapiservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.471.0",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "dialogflow": "^0.8.2",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.6",
+    "form-data": "^4.0.0",
+    "fs": "0.0.1-security",
+    "ftp-deploy": "^2.3.6",
+    "nodejs-base64": "^1.0.3",
+    "random": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
